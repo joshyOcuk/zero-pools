@@ -7,6 +7,14 @@
 ]
 },
 {
+"poolName": "MineZ.Zone",
+"url": "https://minez.zone",
+"searchStrings": [
+"MineZ",
+"MineZ.Zone"
+]
+},
+{
 "poolName": "NaN",
 "url": "",
 "searchStrings": [
