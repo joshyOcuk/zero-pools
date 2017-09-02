@@ -85,6 +85,13 @@
 ]
 },
 {
+"poolName": "GetPool",
+"url": "http://getpool.network/",
+"searchStrings": [
+"http://getpool.network/"
+]
+},
+{
 "poolName": "Hashgate",
 "url": "http://hashgate.eu",
 "searchStrings": [
