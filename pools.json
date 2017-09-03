@@ -105,5 +105,11 @@
 "searchStrings": [
 "hashgate.eu"
 ]
-}
+},
+{
+"poolName": "SG Pool",
+"url": "https://zen.sgpool.net",
+"searchStrings": [
+"SGPool https://zen.sgpool.net"}
 ]
+}
