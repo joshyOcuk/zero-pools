@@ -1,4 +1,4 @@
-# equihashpools
+# Zero equihash192_7 pools
 
 Pool Owners    
 
