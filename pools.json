@@ -1,122 +1,15 @@
 [
 {
-"poolName": "Bitfly",
-"url": "https://zcash.flypool.org/",
-"searchStrings": [
-"/flypool/"
-]
-},
-{
 "poolName": "Mining4",
-"url": "http://equi.mining4.co.uk",
+"url": "http://mining4.co.uk/",
 "searchStrings": [
 "Mining4"
 ]
 },
 {
-"poolName": "MineZ.Zone",
-"url": "https://minez.zone",
-"searchStrings": [
-"MineZ",
-"MineZ.Zone"
-]
-},
-{
-"poolName": "NaN",
+"poolName": "",
 "url": "",
 "searchStrings": [
-"/NaN"
-]
-},
-{
-"poolName": "Zmine",
-"url": "https://zmine.io/",
-"searchStrings": [
-"{ZMINE.IO}"
-]
-},
-{
-"poolName": "Someone using z-nomp!",
-"url": "https://github.com/z-classic/z-nomp/",
-"searchStrings": [
-"Z-NOMP! https://github.com/joshuayabut/z-nomp"
-]
-},
-{
-"poolName": "Someone using equihash-solomining!",
-"url": "https://github.com/aayanl/equihash-solomining",
-"searchStrings": [
-"EquihashSolominer!-github.com/aayanl/equihash-solomining"
-]
-},
-{
-"poolName": "Scottrock Cafe",
-"url": "http://mining.scottrockcafe.com",
-"searchStrings": [
-"http://mining.scottrockcafe.com"
-]
-},
-{
-"poolName": "Zpool.ca",
-"url": "http://www.zpool.ca/",
-"searchStrings": [
-"www.zpool.ca"
-]
-},
-{
-"poolName": "miningspeed",
-"url": "http://pool.miningspeed.com",
-"searchStrings": [
-"miningspeed.com - http://pool.miningspeed.com"
-]
-},
-{
-"poolName": "Block Operations",
-"searchStrings": [
-"Block Operations Zpool1",
-"Block Operations Zpool2"
-]
-},
-{
-"poolName": "Luckpool",
-"url": "http://luckpool.org",
-"searchStrings": [
-"luckpool.org http://luckpool.org",
-"luckpool.org by hellcatz"
-]
-},
-{
-"poolName": "Mad Mining Club",
-"url": "https://madmining.club/",
-"searchStrings": [
-"http://madmining.club"
-]
-},
-{
-"poolName": "Hushpool.cloud",
-"url": "http://hushpool.cloud/",
-"searchStrings": [
-"http://hushpool.cloud"
-]
-},
-{
-"poolName": "GetPool",
-"url": "http://getpool.network/",
-"searchStrings": [
-"http://getpool.network/"
-]
-},
-{
-"poolName": "Hashgate",
-"url": "http://hashgate.eu",
-"searchStrings": [
-"hashgate.eu"
-]
-},
-{
-"poolName": "SG Pool",
-"url": "https://zen.sgpool.net",
-"searchStrings": [
-"SGPool https://zen.sgpool.net"}
+""
 ]
 }
